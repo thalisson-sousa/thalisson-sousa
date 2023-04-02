@@ -5,15 +5,16 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thalisson-sousa&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thalisson-sousa&layout=compact&langs_count=7&theme=dark"/>
 </div>
-
-  ##
   
-<div style="display: inline_block"><br>
-  <img align="center" alt="Thalisson-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Thalisson-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Thalisson-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="Thalisson-pic" height="150" style="border-radius:50px;" src="https://cdn.picrew.me/shareImg/org/202303/1404655_vY4Gi2nd.png">
-</div>
+  ##
+![](https://img.shields.io/badge/‎-Linux-E95420?logo=linux&logoColor=white&style=plastic)
+![](https://img.shields.io/badge/‎-JavaScript-F7DF1E?logo=javascript&logoColor=white&style=plastic)
+![](https://img.shields.io/badge/‎-HTML-CC342D?logo=html5&logoColor=white&style=plastic)
+![](https://img.shields.io/badge/‎-CSS-1572B6?logo=css3&logoColor=white&style=plastic)
+![](https://img.shields.io/badge/‎-NodeJS-339933?logo=Node.js&logoColor=white&style=plastic)
+![](https://img.shields.io/badge/‎-Git-F05032?logo=git&logoColor=white&style=plastic)
+![](https://img.shields.io/badge/‎-GitHub-181717?logo=github&logoColor=white&style=plastic)
+![](https://img.shields.io/badge/‎-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=plastic)
   
   ##
  
