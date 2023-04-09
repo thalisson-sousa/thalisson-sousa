@@ -1,3 +1,5 @@
+<img src="https://present.readthedocs.io/en/latest/_images/welcome-to-coding.gif">
+
 ## Iniciante na Programação, entusiasta da Área de Tecologia, pós graduado em Redes de Compudatores, Tentando o Front...
 
  <div>
