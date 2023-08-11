@@ -11,7 +11,7 @@
   ##
 ![](https://img.shields.io/badge/‎-Linux-E95420?logo=linux&logoColor=white&style=plastic)
 ![](https://img.shields.io/badge/‎-JavaScript-F7DF1E?logo=javascript&logoColor=white&style=plastic)
-![](https://img.shields.io/badge/‎-TypeScript-F7DF1E?logo=typescript&logoColor=white&style=plastic)
+![](https://img.shields.io/badge/‎-TypeScript-1572B6?logo=typescript&logoColor=white&style=plastic)
 ![](https://img.shields.io/badge/‎-HTML-CC342D?logo=html5&logoColor=white&style=plastic)
 ![](https://img.shields.io/badge/‎-CSS-1572B6?logo=css3&logoColor=white&style=plastic)
 ![](https://img.shields.io/badge/‎-Bootstrap-1572B6?logo=Bootstrap&logoColor=white&style=plastic)
