@@ -1,6 +1,6 @@
 <img src="https://present.readthedocs.io/en/latest/_images/welcome-to-coding.gif">
 
-## Iniciante na Programação, entusiasta da Área de Tecologia, pós graduado em Redes de Compudatores, Tentando o Front...
+## Migrando para Programação, entusiasta da Área de Tecnologia, pós graduado em Redes de Compudatores, Comecei no Front, Caminhando para o FullStack...
 
  <div>
   <a href="https://github.com/thalisson-sousa">
@@ -20,17 +20,19 @@
    <h2>Technologies</h2>
    
    ![](https://img.shields.io/badge/‎-Linux-E95420?logo=linux&logoColor=white&style=plastic)
-   ![](https://img.shields.io/badge/‎-JavaScript-F7DF1E?logo=javascript&logoColor=white&style=plastic)
-   ![](https://img.shields.io/badge/‎-TypeScript-1572B6?logo=typescript&logoColor=white&style=plastic)
-   ![](https://img.shields.io/badge/‎-HTML-CC342D?logo=html5&logoColor=white&style=plastic)
-   ![](https://img.shields.io/badge/‎-CSS-1572B6?logo=css3&logoColor=white&style=plastic)
-   ![](https://img.shields.io/badge/‎-Bootstrap-1572B6?logo=Bootstrap&logoColor=white&style=plastic)
-   ![](https://img.shields.io/badge/‎-NodeJS-339933?logo=Node.js&logoColor=white&style=plastic)
-   ![](https://img.shields.io/badge/‎-React-1572B6?logo=React&logoColor=white&style=plastic)
-   ![](https://img.shields.io/badge/‎-ReactNative-1572B6?logo=React&logoColor=white&style=plastic)
-   ![](https://img.shields.io/badge/‎-Git-F05032?logo=git&logoColor=white&style=plastic)
+   ![](https://img.shields.io/badge/‎-JavaScript-F7DF1E?logo=javascript&logoColor=yellow&style=plastic)
+   ![](https://img.shields.io/badge/‎-TypeScript-1572B6?logo=typescript&logoColor=blue&style=plastic)
+   ![](https://img.shields.io/badge/‎-Java-E95420?logo=java&logoColor=orange&style=plastic)
+   ![](https://img.shields.io/badge/‎-SpringBoot-339933?logo=SpringBoot&logoColor=green&style=plastic)
+   ![](https://img.shields.io/badge/‎-HTML-CC342D?logo=html5&logoColor=orange&style=plastic)
+   ![](https://img.shields.io/badge/‎-CSS-1572B6?logo=css3&logoColor=blue&style=plastic)
+   ![](https://img.shields.io/badge/‎-Bootstrap-8313f5?logo=Bootstrap&logoColor=white&style=plastic)
+   ![](https://img.shields.io/badge/‎-NodeJS-339933?logo=Node.js&logoColor=green&style=plastic)
+   ![](https://img.shields.io/badge/‎-React-1572B6?logo=React&logoColor=blue&style=plastic)
+   ![](https://img.shields.io/badge/‎-ReactNative-1572B6?logo=React&logoColor=blue&style=plastic)
+   ![](https://img.shields.io/badge/‎-Git-F05032?logo=git&logoColor=orange&style=plastic)
    ![](https://img.shields.io/badge/‎-GitHub-181717?logo=github&logoColor=white&style=plastic)
-   ![](https://img.shields.io/badge/‎-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=plastic)
+   ![](https://img.shields.io/badge/‎-VS%20Code-007ACC?logo=visual-studio-code&logoColor=blue&style=plastic)
   </div>
 
   ##
